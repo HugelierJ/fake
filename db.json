@@ -12,7 +12,7 @@
           "extras": [{
             "parking": true,
             "beperking": true,
-            "foodshops": false
+            "foodshops": true
           }]
         },
         {
@@ -40,8 +40,8 @@
           "time": "09:00",
           "imagePath": "pukkelpop.png",
           "extras": [{
-            "parking": false,
-            "beperking": true,
+            "parking": true,
+            "beperking": false,
             "foodshops": false
           }]
         },
@@ -55,7 +55,7 @@
           "time": "09:00",
           "imagePath": "grasspop.png",
           "extras": [{
-            "parking": true,
+            "parking": false,
             "beperking": false,
             "foodshops": false
           }]
